@@ -11,4 +11,6 @@ package intojpa.entidades;
  */
 public class prueba {
     private String probando;
+    private String probando2;
+    private Integer hola;
 }
